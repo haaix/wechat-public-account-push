@@ -103,7 +103,7 @@ export const config = {
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
+      //festivals: [],
       customizedDateList: [{"keyword": "love_day", date: "2019-01-01"},]
     },
     {
